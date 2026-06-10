@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch checkpoints / weights
+*.pt
+*.pth
+
+# Datasets and logs
+data/
+.pytest_cache/
+.pypirc
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
