@@ -13,3 +13,11 @@ This repository contains a PyTorch implementation of a Non-Autoregressive (NAT) 
    ```bash
    git clone [https://github.com/your-username/nat-translator.git](https://github.com/your-username/nat-translator.git)
    cd nat-translator
+
+2. nstall dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run training script:
+   ```bash
+   python train.py
